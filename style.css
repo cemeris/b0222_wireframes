@@ -1,0 +1,26 @@
+/** @format */
+
+.btn {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  letter-spacing: -0.015em;
+  color: #18a0fb;
+  text-decoration: none;
+  border: 1px solid #18a0fb;
+  box-sizing: border-box;
+  border-radius: 6px;
+  width: 192px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 12px;
+  cursor: pointer;
+}
+
+.btn_accent {
+  background: #18a0fb;
+  color: #fff;
+}
