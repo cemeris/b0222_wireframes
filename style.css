@@ -1,5 +1,21 @@
 /** @format */
 
+header {
+  max-width: 1680px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-family: Montserrat;
+  font-size: 56px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: -0.015em;
+  color: #000000;
+}
+
 .btn {
   font-family: Montserrat;
   font-weight: 500;
